@@ -239,6 +239,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Repository
-
-GitHub Repository: https://github.com/23f3004008/TDS-EXTRA_PPT
